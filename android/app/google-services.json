@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609513875316",
+    "project_id": "storec-app",
+    "storage_bucket": "storec-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609513875316:android:98a77990cecdd1cf3aae21",
+        "android_client_info": {
+          "package_name": "vn.nvt.shopping_cart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609513875316-lhupnlnvlpobbcrc2u81i5m3qobkh364.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy0Um6ATVcd3xif6foR4lMvDWw96OSlG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609513875316-lhupnlnvlpobbcrc2u81i5m3qobkh364.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
